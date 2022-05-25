@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Alan-Junqueira
 - 👀 I’m interested in Dev Full Stack
-- 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML, CSS, Java Script, SQL, Node, React ,Git, ...
 - 📫 How to reach me contato.alanjunqueira@gmail.com
 
 <!---
