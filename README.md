@@ -7,7 +7,7 @@
 - 📫 How to reach me contato.alanjunqueira@gmail.com
 
 # Tools and Technologies
-<div display="flex" gap="5px" background="rgba(0, 0, 0, .5)">
+<div display="flex" gap="5px" background="#181212">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
