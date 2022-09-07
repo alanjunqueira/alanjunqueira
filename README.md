@@ -33,4 +33,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alan-junqueira&layout=compact)](https://github.com/alan-junqueira/github-readme-stats)
 
-![Snake animation](https://github.com/alan-junqueira/alan-junqueira/blob/output/github-contribution-grid-snake.svg)
