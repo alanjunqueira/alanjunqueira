@@ -4,6 +4,10 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Alan Junqueira!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alan-junqueira&layout=compact)](https://github.com/alan-junqueira/github-readme-stats)
+
+![Snake animation](https://github.com/alan-junqueira/alan-junqueira/blob/output/github-contribution-grid-snake.svg)
+
 # Tools and Technologies
 <div display="flex" gap="5px">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
@@ -31,6 +35,6 @@
 <a href="https://www.linkedin.com/in/alan-junqueira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alan-junqueira&layout=compact)](https://github.com/alan-junqueira/github-readme-stats)
 
-![Snake animation](https://github.com/alan-junqueira/alan-junqueira/blob/output/github-contribution-grid-snake.svg)
+
+
