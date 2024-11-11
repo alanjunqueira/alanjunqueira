@@ -9,9 +9,9 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Allann.Junnkh/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_alanjunqueira/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-junqueira/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/yaohuram) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_alanjunqueira) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Alan-Junqueira&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Alan-Junqueira&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Junqueira&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=alanjunqueira&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=alanjunqueira&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alanjunqueira&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![Snake animation](https://github.com/alan-junqueira/alan-junqueira/blob/output/github-contribution-grid-snake.svg)
 
@@ -21,9 +21,9 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Alan-Junqueira&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=alanjunqueira&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 ---
-[![](https://visitcount.itsvg.in/api?id=Alan-Junqueira&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=alanjunqueira&icon=2&color=12)](https://visitcount.itsvg.in)
 
 
 
