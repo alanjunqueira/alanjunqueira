@@ -74,9 +74,8 @@
   <img src="https://github-readme-stats-umber-kappa.vercel.app/api?username=alanjunqueira&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
 </div> <br>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alanjunqueira&custom_title=Gráfico de atividade&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Alan Junqueira's Github Activity Graph" width="100%">
-</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alanjunqueira&bg_color=141321&color=FD418D&line=F7D746&point=06b6d4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </br>
 
