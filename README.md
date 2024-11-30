@@ -58,7 +58,7 @@
   <br>
   <h2></h2>
   <h3> <strong> Aprendendo </strong></h3>
-  <img src="https://skillicons.dev/icons?i=go,kubernetes,py,rabbitmq,kafka" alt="skills actively learning logos">
+  <img src="https://skillicons.dev/icons?i=go,kubernetes,py,rabbitmq,kafka,terraform" alt="skills actively learning logos">
   <br>
 </div>
 
