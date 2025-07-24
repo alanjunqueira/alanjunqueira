@@ -6,14 +6,6 @@
 
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 
-<img src="./assets/borderseparator.gif" width="100%"/>
-
-<div align="center">
-  <p><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/alanjunqueira/count.svg" width="240px" />
-</div>
-
-<h2></h2>
 
 <img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
 
