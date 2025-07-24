@@ -4,11 +4,7 @@
 
 <img src="./assets/borderseparator.gif" width="100%"/>
 
-<div align="center">
-  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=\Olá%2C+I'm+Alan+Junqueira+e+Bem+vindo+ao+meu+perfil!" alt="Hey, I'm Alan Junqueira and Welcome to my Profile! animated typed out" width="80%" align="middle" />
-  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-</div>
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 
 <img src="./assets/borderseparator.gif" width="100%"/>
 
